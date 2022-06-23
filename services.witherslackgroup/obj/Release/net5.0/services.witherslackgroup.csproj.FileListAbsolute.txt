@@ -1,0 +1,15 @@
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\bin\Release\net5.0\services.witherslackgroup.deps.json
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\bin\Release\net5.0\services.witherslackgroup.dll
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\bin\Release\net5.0\ref\services.witherslackgroup.dll
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\bin\Release\net5.0\services.witherslackgroup.pdb
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\bin\Release\net5.0\models.witherslackgroup.dll
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\bin\Release\net5.0\models.witherslackgroup.pdb
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.csproj.AssemblyReference.cache
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.AssemblyInfoInputs.cache
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.AssemblyInfo.cs
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.csproj.CoreCompileInputs.cache
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.csproj.CopyComplete
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.dll
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\ref\services.witherslackgroup.dll
+C:\Users\MikeFeely\source\repos\witherslackgroup\services.witherslackgroup\obj\Release\net5.0\services.witherslackgroup.pdb
