@@ -1,0 +1,30 @@
+
+ <!-- Header -->
+ <div class="bg-card mb-5">
+    <div class="flex flex-col w-full max-w-screen-xl mx-auto px-6 sm:px-8">
+        <div class="flex flex-col sm:flex-row flex-auto sm:items-center min-w-0 my-8 sm:my-5">
+            <!-- Avatar and name -->
+            <div class="flex flex-auto items-center min-w-0">
+                <div class="text-2xl md:text-5xl font-semibold tracking-tight leading-7 md:leading-snug truncate">
+                    Dashboard
+                </div>
+            </div>
+            
+            <div class="hidden sm:block">
+                Add filters here
+            </div>
+
+        </div>
+        
+    </div>
+</div>
+
+
+
+
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:mt-20">
+
+    <app-subject-summary *ngFor="let s of  ac.subjects" [SubjectName]="s.subject"></app-subject-summary>
+
+
+</div>
