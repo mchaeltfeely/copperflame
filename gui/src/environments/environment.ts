@@ -4,10 +4,10 @@
 
 export const environment = {
   production: false,
-  //api: "https://localhost:44310/api/Assess",
-  //authApi: "https://localhost:44390/api/login",
-  api: "http://copperflames.co.uk/assess/api/assess",
-  authApi: "http://copperflames.co.uk/auth/api/login",
+  api: "https://localhost:44310/api/Assess",
+  authApi: "https://localhost:44390/api/login",
+  //api: "http://copperflames.co.uk/assess/api/assess",
+  //authApi: "http://copperflames.co.uk/auth/api/login",
 };
 
 /*
