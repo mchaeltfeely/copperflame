@@ -11,6 +11,18 @@ namespace services.witherslackgroup
 {
     public class AssessService : IAssessService
     {
+
+        /**
+         * AssessService
+         * 
+         * the job of the AssessService is to relay a call to the witherslack web api and download the json
+         * data and pass it back to our client application.
+         * 
+         * to access the Assess service the user must a valid token
+         * 
+         * changes 
+         * the location of the api could be stored in a settings file.
+         */
         public AssessService()
         {
 

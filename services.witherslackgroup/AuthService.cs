@@ -9,7 +9,16 @@ namespace services.witherslackgroup
 {
     public class AuthService
     {
-
+        /**
+         * AuthService
+         * 
+         * the job of the AuthService is to valid the user and generate a token 
+         * that the client application can store for later validate against.
+         * 
+         * changes:
+         * the secret could be stored in a settings files
+         * the user information could be loaded from a database
+         */
         public static string Secret
         {
             get
@@ -27,6 +36,7 @@ namespace services.witherslackgroup
 
             LoginResponse res = new LoginResponse();
 
+            // the user information has been hard coded but could be loaded from a database
             res.user = new User() { name = "Test User", firstname = "Test", lastname = "User", email = "test@test.com", title = "mr", telephone = "0151", username = "test.test.test", departmentName = "Head Office", id = Guid.NewGuid().ToString(), sessionID = Guid.NewGuid().ToString() };
 
 
@@ -44,6 +54,8 @@ namespace services.witherslackgroup
                 Expires = DateTime.UtcNow.AddDays(7),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };
+
+            //generate the token and store and pass it back to the client to be user later
             var token = tokenHandler.CreateToken(tokenDescriptor);
             res.token = tokenHandler.WriteToken(token);
             res.accessToken = res.token;
