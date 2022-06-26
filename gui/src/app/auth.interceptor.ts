@@ -4,6 +4,13 @@ import { Observable, throwError } from 'rxjs';
 import { catchError } from 'rxjs/operators';
 
 
+/*
+I've added an http interceptor to handle adding the token to any
+any http calls to the witherslack api applications
+
+if no token is present the the appliaction should divert to the login screen;
+*/
+
 @Injectable()
 export class AuthInterceptor implements HttpInterceptor {
     intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>>

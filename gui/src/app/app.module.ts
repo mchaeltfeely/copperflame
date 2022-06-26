@@ -8,6 +8,11 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterModule } from '@angular/router';
 
+
+/*
+main module for the application loading the routes and dependanies
+
+*/
 @NgModule({
   declarations: [
     AppComponent, LayoutContainerLoggedInComponent,LayoutContainerBlankComponent

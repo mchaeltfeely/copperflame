@@ -4,6 +4,18 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Route, Routes, ExtraOptions, PreloadAllModules } from '@angular/router';
 import { AuthGuard } from './auth/guards/auth.guard';
 
+/**
+ * main root router object
+ * 
+ * there are 2 routes  dashboard and login
+ * 
+ * the dashboard route is protected by "AuthGuard" 
+ * and will redirect the user the login route.
+ * 
+ * the dashboard route will load a different layout component 
+ * which will include a menu and user profile screen.
+ */
+
 const routerConfig: ExtraOptions = {
   preloadingStrategy       : PreloadAllModules,
   scrollPositionRestoration: 'enabled',
