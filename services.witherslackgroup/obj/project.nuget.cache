@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7VuvtSADx7l+ndn5xGDnrmkikcICyc+3MJycU/FXdqlGlr3+lDIq8cuTl1GtyXAOV6BT2YdL0W3xAbKio9A9rw==",
+  "dgSpecHash": "b3UHds8eRVda0gTD/udaGH1WKDQSZp+RZgImv05nKYM8xynu20ll71nWtdQBNiDRKUHMe5bag4J6fuLhXMVaEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MikeFeely\\source\\repos\\witherslackgroup\\services.witherslackgroup\\services.witherslackgroup.csproj",
+  "projectFilePath": "C:\\copperflame\\copperflame\\services.witherslackgroup\\services.witherslackgroup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MikeFeely\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

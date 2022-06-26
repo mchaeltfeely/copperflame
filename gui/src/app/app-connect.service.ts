@@ -22,7 +22,6 @@ export class AppConnectService {
   public getSubjects(){
     this.GetSubjectsDataFromServer().subscribe((res:AssessSubject[])=>{
       this.subjects = res;
-     
     });
   }
 
@@ -37,9 +36,7 @@ export class AppConnectService {
   }
 
   signIn(){
-
     return this.http.post(environment.authApi, {});
-
   }
 
   signOut(){

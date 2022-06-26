@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace services.witherslackgroup
 {
-    public class AssessService
+    public class AssessService : IAssessService
     {
         public AssessService()
         {

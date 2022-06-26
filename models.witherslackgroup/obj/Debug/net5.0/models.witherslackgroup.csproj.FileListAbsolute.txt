@@ -10,3 +10,15 @@ C:\Users\MikeFeely\source\repos\witherslackgroup\models.witherslackgroup\obj\Deb
 C:\Users\MikeFeely\source\repos\witherslackgroup\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.dll
 C:\Users\MikeFeely\source\repos\witherslackgroup\models.witherslackgroup\obj\Debug\net5.0\ref\models.witherslackgroup.dll
 C:\Users\MikeFeely\source\repos\witherslackgroup\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.pdb
+C:\copperflame\copperflame\models.witherslackgroup\bin\Debug\net5.0\models.witherslackgroup.deps.json
+C:\copperflame\copperflame\models.witherslackgroup\bin\Debug\net5.0\models.witherslackgroup.dll
+C:\copperflame\copperflame\models.witherslackgroup\bin\Debug\net5.0\ref\models.witherslackgroup.dll
+C:\copperflame\copperflame\models.witherslackgroup\bin\Debug\net5.0\models.witherslackgroup.pdb
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.csproj.AssemblyReference.cache
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.AssemblyInfoInputs.cache
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.AssemblyInfo.cs
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.csproj.CoreCompileInputs.cache
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.dll
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\ref\models.witherslackgroup.dll
+C:\copperflame\copperflame\models.witherslackgroup\obj\Debug\net5.0\models.witherslackgroup.pdb

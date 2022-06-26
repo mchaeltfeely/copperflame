@@ -417,11 +417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MikeFeely\\source\\repos\\witherslackgroup\\models.witherslackgroup\\models.witherslackgroup.csproj",
+      "projectUniqueName": "C:\\copperflame\\copperflame\\models.witherslackgroup\\models.witherslackgroup.csproj",
       "projectName": "models.witherslackgroup",
-      "projectPath": "C:\\Users\\MikeFeely\\source\\repos\\witherslackgroup\\models.witherslackgroup\\models.witherslackgroup.csproj",
+      "projectPath": "C:\\copperflame\\copperflame\\models.witherslackgroup\\models.witherslackgroup.csproj",
       "packagesPath": "C:\\Users\\MikeFeely\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MikeFeely\\source\\repos\\witherslackgroup\\models.witherslackgroup\\obj\\",
+      "outputPath": "C:\\copperflame\\copperflame\\models.witherslackgroup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
